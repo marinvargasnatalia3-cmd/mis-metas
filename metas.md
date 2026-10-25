@@ -13,3 +13,6 @@ Entregar mis trabajos a tiempo, participar en las clases y fortalecer mis conoci
 ## 4. Mejorar mi nivel de inglés
 
 Estudiar inglés cada semana, aprender vocabulario nuevo y practicar la pronunciación para mejorar mis oportunidades profesionales.
+## 5. Organizar mejor mi tiempo
+
+Crear una rutina de estudio que me permita cumplir con mis responsabilidades del SENA, practicar programación y dedicar tiempo a mi crecimiento personal.
