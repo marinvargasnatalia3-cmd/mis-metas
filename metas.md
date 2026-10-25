@@ -4,3 +4,6 @@
 
 Aprender y practicar JavaScript y Node.js para fortalecer mis conocimientos de desarrollo de software.
 
+## 2. Aprender a utilizar Git y GitHub
+
+Practicar los comandos básicos de Git, comprender cómo funcionan los commits y aprender a gestionar repositorios en GitHub.
