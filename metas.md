@@ -10,3 +10,6 @@ Practicar los comandos básicos de Git, comprender cómo funcionan los commits y
 ## 3. Cumplir con mis actividades del SENA
 
 Entregar mis trabajos a tiempo, participar en las clases y fortalecer mis conocimientos en Análisis y Desarrollo de Software (ADSO).
+## 4. Mejorar mi nivel de inglés
+
+Estudiar inglés cada semana, aprender vocabulario nuevo y practicar la pronunciación para mejorar mis oportunidades profesionales.
