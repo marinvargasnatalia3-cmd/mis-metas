@@ -20,3 +20,7 @@ Crear una rutina de estudio que me permita cumplir con mis responsabilidades del
 ## 6. Practicar inglés
 
 Dedicar 30 minutos diarios a estudiar inglés.
+
+## 7. Crear proyectos propios
+
+Desarrollar pequeños proyectos personales para aplicar lo que aprendo y mejorar mi portafolio.
