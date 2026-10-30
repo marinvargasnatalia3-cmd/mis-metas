@@ -24,3 +24,7 @@ Dedicar 30 minutos diarios a estudiar inglés.
 ## 7. Crear proyectos propios
 
 Desarrollar pequeños proyectos personales para aplicar lo que aprendo y mejorar mi portafolio.
+
+## 8. Organizar mi tiempo de estudio
+
+Crear un horario semanal para estudiar con constancia y entregar mis actividades a tiempo.
