@@ -16,3 +16,7 @@ Estudiar inglés cada semana, aprender vocabulario nuevo y practicar la pronunci
 ## 5. Organizar mejor mi tiempo
 
 Crear una rutina de estudio que me permita cumplir con mis responsabilidades del SENA, practicar programación y dedicar tiempo a mi crecimiento personal.
+
+## 6. Practicar inglés
+
+Dedicar 30 minutos diarios a estudiar inglés.
